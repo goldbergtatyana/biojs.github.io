@@ -200,7 +200,7 @@ Former members
 
 <div class="col-md-2 col-xs-4">
 <img src="https://sigil.cupcake.io/">
-<div class="people-name">
+<div class="people-name">Name Name
 </div>
 <div class="people-institution">
 </div>
@@ -208,7 +208,7 @@ Former members
 
 <div class="col-md-2 col-xs-4">
 <img src="https://sigil.cupcake.io/">
-<div class="people-name">
+<div class="people-name">Name Name
 </div>
 <div class="people-institution">
 </div>
@@ -216,7 +216,7 @@ Former members
 
 <div class="col-md-2 col-xs-4">
 <img src="https://sigil.cupcake.io/">
-<div class="people-name">
+<div class="people-name">Name Name
 </div>
 <div class="people-institution">
 </div>
